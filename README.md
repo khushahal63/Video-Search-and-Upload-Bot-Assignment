@@ -3,7 +3,7 @@
 A Python-based bot that searches, downloads, and uploads videos from social media platforms.
 
 ## 🎯 Objective
-Create a bot to download videos from Instagram, TikTok, and Reddit, then upload them to our server using provided APIs.
+Create a bot to download videos from Instagram and TikTok, then upload them to our server using provided APIs.
 
 ## 📋 Requirements
 
